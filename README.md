@@ -76,7 +76,7 @@ witr treats **everything as a process question**.
 
 Ports, services, containers, and commands all eventually map to **PIDs**. Once a PID is identified, witr builds a causal chain explaining _why that PID exists_.
 
-At its core, witr answers:
+At its core, wir answers:
 
 1. What is running?
 2. How did it start?
@@ -87,7 +87,7 @@ At its core, witr answers:
 
 ## 4. Supported Targets
 
-witr supports multiple entry points that converge to PID analysis.
+wir supports multiple entry points that converge to PID analysis.
 
 ---
 
